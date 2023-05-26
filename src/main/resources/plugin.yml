@@ -1,0 +1,4 @@
+name: DarksVillagerNames
+version: '${project.version}'
+main: me.darksoul.darksvillagernames.DarksVillagerNames
+api-version: 1.19
